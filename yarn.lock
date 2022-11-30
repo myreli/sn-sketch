@@ -1380,6 +1380,11 @@
     minimatch "^3.0.4"
     strip-json-comments "^3.1.1"
 
+"@excalidraw/excalidraw@^0.13.0":
+  version "0.13.0"
+  resolved "https://registry.yarnpkg.com/@excalidraw/excalidraw/-/excalidraw-0.13.0.tgz#db17041be09d7e9da72e3ae6cd3a2e1ceb5d2ff9"
+  integrity sha512-TTi1hiUczfIj/kLQshh1EHUrXziEa5cwLF74TrlFQWwW9jhJIF73HplmqEMrfwwqt7CrypXRZtMzH1hhmZ3vbg==
+
 "@gar/promisify@^1.0.1":
   version "1.1.3"
   resolved "https://registry.yarnpkg.com/@gar/promisify/-/promisify-1.1.3.tgz#555193ab2e3bb3b6adc3d551c9c030d9e860daf6"
