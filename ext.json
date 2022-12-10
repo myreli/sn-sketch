@@ -3,7 +3,7 @@
   "name": "Sketch",
   "content_type": "SN|Component",
   "area": "editor-editor",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "Whiteboard editor for Standard Notes, built on Excalidraw.",
   "url": "https://sn-sketch.myreli.vercel.app/",
   "latest_url": "https://cdn.jsdelivr.net/gh/myreli/sn-sketch@latest/ext.json",

@@ -1,7 +1,7 @@
 {
-  "name": "standard-notes-editor-template-cra-typescript",
-  "version": "0.1.0",
-  "description": "Template for building editors for Standard Notes using Create React App and TypeScript",
+  "name": "sn-sketch",
+  "version": "0.1.2",
+  "description": "Whiteboard editor for Standard Notes",
   "keywords": [
     "Standard Notes",
     "Standard Notes Extensions"
@@ -10,10 +10,10 @@
   "license": "AGPL-3.0-or-later",
   "repository": {
     "type": "git",
-    "url": "https://github.com/standardnotes/editor-template-cra-typescript.git"
+    "url": "https://github.com/myreli/sn-sketch.git"
   },
   "bugs": {
-    "url": "https://github.com/standardnotes/editor-template-cra-typescript/issues"
+    "url": "https://github.com/myreli/sn-sketch/issues"
   },
   "sn": {
     "main": "build/index.html"
