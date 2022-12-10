@@ -26,12 +26,12 @@ html {
       .Stack.Stack_vertical.disable-pointerEvents {
         display: none;
       }
+    }
 
-      .ToolIcon__library,
-      .ToolIcon__lock,
-      .ToolIcon__penMode {
-        display: none !important;
-      }
+    .ToolIcon__library,
+    .ToolIcon__lock,
+    .ToolIcon__penMode {
+      display: none !important;
     }
   }
 }
